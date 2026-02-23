@@ -13,6 +13,12 @@
 
 ---
 
+## 📝 Description
+
+**Smart Grocery App** is a Flutter-based cross-platform mobile application that brings the convenience of online grocery shopping to your fingertips. Users can browse products by category, search for items, manage a shopping cart, and place orders — all without leaving home. The app uses **Firebase** for real-time data sync, secure authentication, and cloud storage, ensuring that product availability is always current. It supports two roles: **customers** who shop for groceries and **admins** who manage the product catalog.
+
+---
+
 ## 📖 About
 
 The **Smart Grocery App** is a full-featured mobile application designed to make grocery shopping simpler and more convenient. Instead of visiting stores physically, users can browse products by category, manage their cart, and place orders directly through the app.
